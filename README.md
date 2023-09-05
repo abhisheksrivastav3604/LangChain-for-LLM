@@ -6,11 +6,9 @@ The aim is to understanding Models, Prompts, Output Parsers, and Memory of LangC
 
 ## References
 
-Reference Link : `https://learn.deeplearning.ai/langchain/lesson/1/introduction`
-
-Reference Link : `https://learn.deeplearning.ai/langchain/lesson/2/models,-prompts-and-parsers`
-
-Reference Link : `https://learn.deeplearning.ai/langchain/lesson/3/memory`
+1.   `https://learn.deeplearning.ai/langchain/lesson/1/introduction`
+2.   `https://learn.deeplearning.ai/langchain/lesson/2/models,-prompts-and-parsers`
+3.   `https://learn.deeplearning.ai/langchain/lesson/3/memory`
 
 
 ## Prerequisites
